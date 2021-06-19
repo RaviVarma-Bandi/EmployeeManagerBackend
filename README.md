@@ -12,6 +12,6 @@ Mysql data base is configured in " application.properties ".
 
 ## Important 
 
-Change Mysql username, password and create table with name "employeeList"
-
+1. Change Mysql username, password and create table with name "employeeList"
+2. Check front end here https://github.com/raviv7396/employeemanagerFrontEnd.
 
